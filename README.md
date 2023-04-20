@@ -1,0 +1,2 @@
+# BetterPiglinTrade
+Improve piglins trades

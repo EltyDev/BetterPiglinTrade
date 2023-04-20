@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "fr.venodez.betterpiglintrade.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "betterpiglintrade.refmap.json",
+  "mixins": [
+    "MixinPiglinTasks",
+    "MixinItem"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

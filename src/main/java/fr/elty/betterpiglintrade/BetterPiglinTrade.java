@@ -1,4 +1,4 @@
-package fr.venodez.betterpiglintrade;
+package fr.elty.betterpiglintrade;
 
 import net.minecraft.item.Item;
 import net.minecraftforge.common.MinecraftForge;

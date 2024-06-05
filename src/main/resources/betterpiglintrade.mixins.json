@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "fr.elty.betterpiglintrade.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "betterpiglintrade.refmap.json",
+  "mixins": [
+    "MixinItem",
+    "MixinPiglinAi"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
